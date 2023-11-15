@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PlayFabCommon.cpp.obj": [
+			"PlayFabCommmonUtils.cpp.obj",
+			"PlayFabCommon.cpp.obj",
+			"PlayFabCommonSettings.cpp.obj",
+			"PlayFabRuntimeSettings.cpp.obj"
+		],
+		"Module.PlayFabCommon.gen.cpp.obj": [
+			"PlayFabAuthenticationContext.gen.cpp.obj",
+			"PlayFabCommon.init.gen.cpp.obj",
+			"PlayFabRuntimeSettings.gen.cpp.obj"
+		]
+	}
+}

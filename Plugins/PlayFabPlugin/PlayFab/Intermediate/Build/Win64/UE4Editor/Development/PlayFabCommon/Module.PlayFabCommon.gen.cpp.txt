@@ -1,0 +1,11 @@
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFabCommon\Definitions.PlayFabCommon.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Intermediate/Build/Win64/UE4Editor/Inc/PlayFabCommon/PlayFabAuthenticationContext.gen.cpp
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCommon/Public/PlayFabAuthenticationContext.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCommon\Public\PlayFabCommonSettings.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCommon/Public/PlayFabRuntimeSettings.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFabCommon\PlayFabRuntimeSettings.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFabCommon\PlayFabAuthenticationContext.generated.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Intermediate/Build/Win64/UE4Editor/Inc/PlayFabCommon/PlayFabCommon.init.gen.cpp
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Intermediate/Build/Win64/UE4Editor/Inc/PlayFabCommon/PlayFabRuntimeSettings.gen.cpp

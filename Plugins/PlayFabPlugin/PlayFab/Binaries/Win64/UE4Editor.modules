@@ -1,0 +1,9 @@
+{
+	"BuildId": "b9635e4f-3afb-4f83-bbf9-2ca0ef95be81",
+	"Modules": 
+	{
+		"PlayFab": "UE4Editor-PlayFab.dll",
+		"PlayFabCommon": "UE4Editor-PlayFabCommon.dll",
+		"PlayFabCpp": "UE4Editor-PlayFabCpp.dll"
+	}
+}

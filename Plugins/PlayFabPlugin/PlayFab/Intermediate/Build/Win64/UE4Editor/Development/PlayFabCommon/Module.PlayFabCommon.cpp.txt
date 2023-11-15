@@ -1,0 +1,12 @@
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFabCommon\Definitions.PlayFabCommon.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFabCommon/Private/PlayFabCommmonUtils.cpp
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCommon\Public\PlayFabCommonUtils.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFabCommon/Private/PlayFabCommon.cpp
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCommon\Public\PlayFabCommon.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Developer\Settings\Public\ISettingsModule.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Developer\Settings\Public\ISettingsSection.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCommon\Public\PlayFabCommonSettings.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCommon/Public/PlayFabRuntimeSettings.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFabCommon\PlayFabRuntimeSettings.generated.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFabCommon/Private/PlayFabCommonSettings.cpp
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFabCommon/Private/PlayFabRuntimeSettings.cpp

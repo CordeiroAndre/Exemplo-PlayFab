@@ -1,0 +1,6 @@
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Definitions.PlayFab.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Intermediate/Build/Win64/UE4Editor/Inc/PlayFab/PlayFabUtilities.gen.cpp
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab/Classes/PlayFabUtilities.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabUtilities.generated.h

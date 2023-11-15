@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{648F371B-45BE-DBE8-183D-61A050965745}",
+	"Category": "",
+	"Description": "",    
+	"Plugins": [{
+		"Name": "PlayFabGSDK", 
+		"Enabled":true	
+	}],               
+	"Modules": [
+		{
+			"Name": "UnrealTraining",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "PlayFabAuthentication",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "Matchmaking",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

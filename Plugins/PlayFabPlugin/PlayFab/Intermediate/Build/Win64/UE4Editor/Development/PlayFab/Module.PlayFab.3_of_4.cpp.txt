@@ -1,0 +1,96 @@
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Definitions.PlayFab.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabGroupsModelDecoder.cpp
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabGroupsModelDecoder.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabEnums.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabJsonObject.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabJsonObject.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabEnums.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabGroupsModels.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabRequestCommon.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCommon/Public/PlayFabAuthenticationContext.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCommon\Public\PlayFabCommonSettings.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCommon/Public/PlayFabRuntimeSettings.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFabCommon\PlayFabRuntimeSettings.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFabCommon\PlayFabAuthenticationContext.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabRequestCommon.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabLoginResultCommon.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabResultCommon.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabResultCommon.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabLoginResultCommon.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabGroupsModels.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabGroupsModelDecoder.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Private\PlayFabPrivate.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Online\HTTP\Public\Http.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Online\HTTP\Public\HttpModule.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpRequest.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpBase.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpResponse.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Online\HTTP\Public\PlatformHttp.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Online\HTTP\Public\Windows/WindowsPlatformHttp.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Online\HTTP\Public\GenericPlatform/GenericPlatformHttp.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab/Public/IPlayFab.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCommon\Public\PlayFabCommon.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabGroupsModels.cpp
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabInsightsAPI.cpp
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabInsightsAPI.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Engine\Public\Net/OnlineBlueprintCallProxyBase.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintAsyncActionBase.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintAsyncActionBase.generated.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineBlueprintCallProxyBase.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabBaseModel.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabBaseModel.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabInsightsModels.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabInsightsModels.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabInsightsAPI.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabInsightsModelDecoder.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabInsightsModelDecoder.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCommon/Public/PlayFabCommonUtils.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabInsightsModelDecoder.cpp
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabInsightsModels.cpp
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabJsonObject.cpp
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabJsonValue.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabJsonValue.generated.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabJsonValue.cpp
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabLocalizationAPI.cpp
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabLocalizationAPI.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabLocalizationModels.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabLocalizationModels.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabLocalizationAPI.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabLocalizationModelDecoder.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabLocalizationModelDecoder.generated.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabLocalizationModelDecoder.cpp
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabLocalizationModels.cpp
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabMatchmakerAPI.cpp
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabMatchmakerAPI.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabMatchmakerModels.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabMatchmakerModels.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabMatchmakerAPI.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabMatchmakerModelDecoder.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabMatchmakerModelDecoder.generated.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabMatchmakerModelDecoder.cpp
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabMatchmakerModels.cpp
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabMultiplayerAPI.cpp
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabMultiplayerAPI.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabMultiplayerModels.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabMultiplayerModels.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabMultiplayerAPI.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabMultiplayerModelDecoder.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabMultiplayerModelDecoder.generated.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabMultiplayerModelDecoder.cpp
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabMultiplayerModels.cpp
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabProfilesAPI.cpp
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabProfilesAPI.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabProfilesModels.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabProfilesModels.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabProfilesAPI.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabProfilesModelDecoder.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabProfilesModelDecoder.generated.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabProfilesModelDecoder.cpp
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabProfilesModels.cpp
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFab/Private/PlayFabServerAPI.cpp
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabServerAPI.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabServerModels.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabServerModels.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabServerAPI.generated.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFab\Classes\PlayFabServerModelDecoder.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFab\PlayFabServerModelDecoder.generated.h

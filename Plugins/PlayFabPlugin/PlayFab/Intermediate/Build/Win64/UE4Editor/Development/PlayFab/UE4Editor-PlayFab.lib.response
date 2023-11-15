@@ -1,0 +1,35 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PlayFab.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.1_of_4.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.2_of_4.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.3_of_4.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.4_of_4.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.1_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.2_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.3_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.4_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.5_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.6_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.7_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.8_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.9_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.10_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.11_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.12_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.13_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.14_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.15_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.16_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.17_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.18_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.19_of_20.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\Module.PlayFab.gen.20_of_20.cpp.obj"
+"D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFab\UE4Editor-PlayFab.lib"

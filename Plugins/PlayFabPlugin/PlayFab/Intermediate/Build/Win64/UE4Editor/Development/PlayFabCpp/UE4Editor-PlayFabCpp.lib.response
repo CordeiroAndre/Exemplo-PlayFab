@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PlayFabCpp.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFabCpp\Module.PlayFabCpp.1_of_10.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFabCpp\Module.PlayFabCpp.2_of_10.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFabCpp\Module.PlayFabCpp.3_of_10.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFabCpp\Module.PlayFabCpp.4_of_10.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFabCpp\Module.PlayFabCpp.5_of_10.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFabCpp\Module.PlayFabCpp.6_of_10.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFabCpp\Module.PlayFabCpp.7_of_10.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFabCpp\Module.PlayFabCpp.8_of_10.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFabCpp\Module.PlayFabCpp.9_of_10.cpp.obj"
+"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFabCpp\Module.PlayFabCpp.10_of_10.cpp.obj"
+"D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFabCpp\UE4Editor-PlayFabCpp.lib"

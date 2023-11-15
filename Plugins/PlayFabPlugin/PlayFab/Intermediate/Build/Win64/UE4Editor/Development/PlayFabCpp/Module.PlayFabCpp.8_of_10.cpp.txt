@@ -1,0 +1,66 @@
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Development\PlayFabCpp\Definitions.PlayFabCpp.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFabCpp/Private/Core/PlayFabMultiplayerInstanceAPI.cpp
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCpp\Public\Core/PlayFabMultiplayerInstanceAPI.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCpp\Public\Core/PlayFabError.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCpp\Public\Core/PlayFabMultiplayerDataModels.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCpp\Public\Core\PlayFabCppBaseModel.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCommon/Public/PlayFabAuthenticationContext.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCommon\Public\PlayFabCommonSettings.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCommon/Public/PlayFabRuntimeSettings.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFabCommon\PlayFabRuntimeSettings.generated.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_typeinfo.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/SparseDelegate.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPathProperty.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Intermediate\Build\Win64\UE4Editor\Inc\PlayFabCommon\PlayFabAuthenticationContext.generated.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Json\Public\Policies/CondensedJsonPrintPolicy.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCpp\Public\Core/PlayFabSettings.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCpp\Public\Core\PlayFabAPISettings.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpRequest.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpBase.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpResponse.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCpp\Public\Core/PlayFabResultHandler.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Online\HTTP\Public\Http.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Online\HTTP\Public\HttpModule.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Online\HTTP\Public\PlatformHttp.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Online\HTTP\Public\Windows/WindowsPlatformHttp.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Online\HTTP\Public\GenericPlatform/GenericPlatformHttp.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCpp\Public\PlayFab.h
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/StrongObjectPtr.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFabCpp/Private/Core/PlayFabProfilesAPI.cpp
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCpp\Public\Core/PlayFabProfilesAPI.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCpp\Public\Core/PlayFabProfilesDataModels.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFabCpp/Private/Core/PlayFabProfilesDataModels.cpp
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCpp\Public\Core/PlayFabJsonHelpers.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFabCpp/Private/Core/PlayFabProfilesInstanceAPI.cpp
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCpp\Public\Core/PlayFabProfilesInstanceAPI.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFabCpp/Private/Core/PlayFabResultHandler.cpp
+D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
+C:/Users/Andre luiz/Documents/Unreal Projects/UnrealTraining/Plugins/PlayFabPlugin/PlayFab/Source/PlayFabCpp/Private/Core/PlayFabServerAPI.cpp
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCpp\Public\Core/PlayFabServerAPI.h
+C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\Plugins\PlayFabPlugin\PlayFab\Source\PlayFabCpp\Public\Core/PlayFabServerDataModels.h
