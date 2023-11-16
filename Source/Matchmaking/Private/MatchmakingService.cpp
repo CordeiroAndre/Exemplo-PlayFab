@@ -155,8 +155,8 @@ void UMatchmakingService::HandleGetMatchSuccess(const PlayFab::MultiplayerModels
 {
 	auto ServerDetails = GetMatchResult.pfServerDetails.Get();
 	FString IP = ServerDetails->IPV4Address;
-	FString Port = ServerDetails->Ports[0].Name;
-	FString Address = IP +":"+Port;
+	int Port = ServerDetails->Ports[0].Num;
+	FString Address = IP +":"+FString::FromInt(Port);
 	GetWorld()->GetFirstPlayerController()->ClientTravel(Address, TRAVEL_Absolute);
 	
 	OnMatchmakingStateChanged.Broadcast(EMatchmakingState::SUCCESSFULLY_GOT_MATCH);
