@@ -1,1 +1,1 @@
-"D:\UE_4.27\UnrealEngine-4.27.2-release\Engine\Binaries\Win64\UE4Editor.exe" "C:\Users\Andre luiz\Documents\Unreal Projects\UnrealTraining\UnrealTraining.uproject" -game -log -verbose -veryVerbose -windowed
+<YOUR_ENGINE_BINARIE.EXE_FILE> <YOUR_UPROJECT> -game -log -verbose -veryVerbose -windowed
